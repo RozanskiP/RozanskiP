@@ -1,6 +1,6 @@
 # Hello I'm Pawel Rozanski
 
-I am a student of Computer Engineering with a specialization in Computer Graphics and Multimedia Systems at the Wrocław University of Technology. Currently I am finishing third year of my studies. I have some experience in languages such as C++, Python or Java, but for over a year I have focused on developing my skills in web technologies. I have some experience in technologies such as React, Angular and C #, .NET.
+I am a student of Computer Engineering with a specialization in Computer Graphics and Multimedia Systems at the Wrocław University of Technology. Currently I am finishing third year of my studies. I have some experience in programming languages such as C++, Python or Java, but I'm have focused on developing my skills in web technologies for over a year from now. I have some experience in technologies such as React, Angular, C# and .NET.
 
 <a href="https://www.linkedin.com/in/pawe%C5%82-r%C3%B3%C5%BCa%C5%84ski-a9436b215/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pawel.rozanski09@gmail.com"><img src="https://img.shields.io/badge/pawel.rozanski09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -34,6 +34,6 @@ I am a student of Computer Engineering with a specialization in Computer Graphic
 
 ## ⚡ Currently
 
-- I'm currently developing my skills for the FullStack position.
+- I'm currently developing my programming skills as a Full Stack Developer (.NET + Angular).
 
 ## Stats
