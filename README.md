@@ -1,39 +1,44 @@
 # Hello I'm Pawel Rozanski
 
-I am a student of Computer Engineering with a specialization in Computer Graphics and Multimedia Systems at the Wrocław University of Technology. Currently I am finishing fifth year of my studies. For more than 2 years I have been working as a full-stack software developer in dotnet and angular technologies. Also I have some experience in programming languages such as Python, but I'm have focused on developing my skills in web technologies for over a year from now. 
+I graduated with a degree in Computer Science from Wrocław University of Science and Technology in June 2024. Currently, I work as a Full Stack Software Developer at a multinational company specializing in self-storage software solutions. In this role, I am fully responsible for maintaining and enhancing the system across all layers.
+
+Outside of my primary role, I actively contribute to a side project focused on aggregating public sector job listings and delivering recruitment solutions. I design and maintain scalable web scraping tools to automate data collection from various official sources, continuously optimizing performance and data accuracy.
+
+I specialize in .NET and Angular, and I am passionate about artificial intelligence. I actively seek opportunities to grow in this field by exploring new technologies and staying up-to-date with the latest developments.
 
 <a href="https://www.linkedin.com/in/pawe%C5%82-r%C3%B3%C5%BCa%C5%84ski-a9436b215/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pawel.rozanski09@gmail.com"><img src="https://img.shields.io/badge/pawel.rozanski09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-## Web tech skills
+## 🧰 Technologies & Tools
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+### 💻 Backend  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-6DB33F?style=for-the-badge) ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![SignalR](https://img.shields.io/badge/SignalR-00599C?style=for-the-badge)
 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+### 🌐 Frontend  
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NgRx](https://img.shields.io/badge/NgRx-8A2BE2?style=for-the-badge)
 
-## Tech skills
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+### 🔧 DevOps & Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker--Compose-1488C6?style=for-the-badge)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### ☁️ Cloud  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23F90?style=for-the-badge&logo=aws-lambda&logoColor=white)
+
+
+### 🧪 Automation & Scraping  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Playwright](https://img.shields.io/badge/Playwright-2E2E2E?style=for-the-badge&logo=playwright&logoColor=green) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3D3D3D?style=for-the-badge)
+
 
 ## ⚡ Currently
 
-- I'm currently developing my programming skills as a Full Stack Developer (.NET + Angular).
+- Working as a Full Stack Software Developer at a multinational company specializing in self-storage software solutions.
+- Contributing to a side project focused on public sector job aggregation and recruitment tools.
+- Actively expanding expertise in .NET, Angular, and pursuing a deep interest in artificial intelligence and modern web technologies.
 
 ## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RozanskiP&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RozanskiP&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RozanskiP&layout=compact)
